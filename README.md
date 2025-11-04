@@ -2,7 +2,6 @@
 
 A lightweight GUI to export Empatica device data
 
-This app uses PySide6 (Qt6), pandas, numpy, and decodes Empatica RAW .avro files via `fastavro` (preferred) or `avro-python3`.
 
 ## Features
 - Manual export: select a date/time window and one or multiple devices
