@@ -17,7 +17,7 @@ A lightweight GUI to export Empatica device data
 
 ```bash
 # In Git Bash or cmd
-cd /d/TUe/exporter
+cd /"path_file"
 conda env create -f environment.yml
 conda activate empatica-exporter
 python empatica_data_exporter.py
@@ -27,7 +27,7 @@ python empatica_data_exporter.py
 
 ```bash
 # In Git Bash or cmd
-cd /d/TUe/exporter
+cd /"path_file"
 python -m pip install -r requirements.txt
 python empatica_data_exporter.py
 ```
